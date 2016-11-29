@@ -1,3 +1,4 @@
 # Site settings
 title: DreamHost Design Handbook
 markdown: kramdown
+baseurl: /design-handbook
