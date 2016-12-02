@@ -4,7 +4,7 @@ title: Design Process
 ---
 
 ## Define: Kickoff
-<p class="t-size-large">Every project needs a kickoff so we can understand the scope and business goals of the project.</p>
+<p class="t-large">Every project needs a kickoff so we can understand the scope and business goals of the project.</p>
 
 Design is communication and every idea needs to be communicated clearly. The kickoff is generally the designer asking a ton of questions about what the project is and throwing rough ideas at the group. Ideas are cheap; designers want to shake it around a little and see how it holds up, if users will find value in it, zoom out a level and see how it will interact with the rest of the website/application and explore if there more intuitive ways of reaching the same goals.
 
