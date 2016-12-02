@@ -13,6 +13,6 @@ A new marketing page project can start off with a quick conversation and a rough
 A new product or feature should start with a quick meeting with the Product Manager and the developer(s) on the project. Because systems are complex, especially ones that already exist, design will need to understand how the system works to make sure the interface accurately communicates appropriately. Ideally, we can help adapt the system to what a user would be expecting.
 
 ## Examples
-<a href="https://docs.google.com/document/d/1V5hlqOnAcbiA8pUGY6sromFDZAaSmbsyccSK_NaqGOM/edit#heading=h.oldd5vu14zkv">Website Landing Page</a>
+<a href="https://docs.google.com/document/d/1V5hlqOnAcbiA8pUGY6sromFDZAaSmbsyccSK_NaqGOM/edit#heading=h.oldd5vu14zkv" target="_blank">Website Landing Page</a>
 
 
