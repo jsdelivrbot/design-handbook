@@ -14,19 +14,21 @@ What's a good headline? Headline writing is probably the hardest and most import
 
 A good headline:
 
-* Is focused on Unique Value Propositions
-* Is persuasive
-* Relays urgency
-* Sticks to the marketing strategy (who, what, where, when, why)
-* Works with the visual, but doesn’t state the same thing
-* Refers to the product, but not always by name.
-* Catches people's attention (humor, controversy, boldness, etc)
-* Tends to be physically larger than the body copy on the page
-* Is accurate, factual, and not overstating
-* Uses simple language (shoot for Flesch-Kincaid score of 50 or higher)
-* Does not blatantly bash the competition (this can be perceived as desperate)
-* Is written in the target user’s voice
-* Is not self-deprecating
+<ul class="list">
+	<li>Is focused on Unique Value Propositions</li>
+	<li>Is persuasive</li>
+	<li>Relays urgency</li>
+	<li>Sticks to the marketing strategy (who, what, where, when, why)</li>
+	<li>Works with the visual, but doesn’t state the same thing</li>
+	<li>Refers to the product, but not always by name.</li>
+	<li>Catches people's attention (humor, controversy, boldness, etc)</li>
+	<li>Tends to be physically larger than the body copy on the page</li>
+	<li>Is accurate, factual, and not overstating</li>
+	<li>Uses simple language (shoot for Flesch-Kincaid score of 50 or higher)</li>
+	<li>Does not blatantly bash the competition (this can be perceived as desperate)</li>
+	<li>Is written in the target user’s voice</li>
+	<li>Is not self-deprecating</li>
+</ul>
 
 ## Email Copy
 The users inbox is sacred. We are sending important information directly to them and hope that they are reading it. The shorter the email, the more likely it will be read. If there’s a lot of information, put that information somewhere else (Wiki/Knowledge Base) and link to it. Emails are notifications, not letters home from your husband Jeremiah who’s been gone for 4 months fighting the British for independence.
@@ -39,15 +41,15 @@ Show the benefits. Explain how the product can improve the user’s life. Be per
 
 ## Resources
 
-* [Voice & Tone](http://voiceandtone.com/)
-* [The Elements of Style](https://www.amazon.com/Elements-Style-William-Strunk-Jr/dp/1557427283)
-* [The Copywriter’s Handbook](https://www.amazon.com/Copywriters-Handbook-Step-Step-Writing/dp/0396085466)
-* [The Elements of Content Strategy](https://abookapart.com/products/the-elements-of-content-strategy)
-* [Content Strategy for Mobile](https://abookapart.com/products/content-strategy-for-mobile)
-
-* [Slack: Finding our Twitter voice](https://slackhq.com/finding-our-twitter-voice-2684669345ab#.hxcuh3jzi)
-* [Copywriting 101](http://www.copyblogger.com/copywriting-101/)
-* [Quick Course on Effective Website Copywriting](https://www.smashingmagazine.com/2012/05/quick-course-on-effective-website-copywriting/)
-* [20 Killer Copywriting Tips](http://writtent.com/blog/20-killer-web-copywriting-tips/)
-
+<ul class="list">
+	<li>[Voice & Tone](http://voiceandtone.com/)</li>
+	<li>[The Elements of Style](https://www.amazon.com/Elements-Style-William-Strunk-Jr/dp/1557427283)</li>
+	<li>[The Copywriter’s Handbook](https://www.amazon.com/Copywriters-Handbook-Step-Step-Writing/dp/0396085466)</li>
+	<li>[The Elements of Content Strategy](https://abookapart.com/products/the-elements-of-content-strategy)</li>
+	<li>[Content Strategy for Mobile](https://abookapart.com/products/content-strategy-for-mobile)</li>
+	<li>[Slack: Finding our Twitter voice](https://slackhq.com/finding-our-twitter-voice-2684669345ab#.hxcuh3jzi)</li>
+	<li>[Copywriting 101](http://www.copyblogger.com/copywriting-101/)</li>
+	<li>[Quick Course on Effective Website Copywriting](https://www.smashingmagazine.com/2012/05/quick-course-on-effective-website-copywriting/)</li>
+	<li>[20 Killer Copywriting Tips](http://writtent.com/blog/20-killer-web-copywriting-tips/)</li>
+</ul>
 
