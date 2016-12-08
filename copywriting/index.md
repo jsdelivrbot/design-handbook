@@ -41,15 +41,15 @@ Show the benefits. Explain how the product can improve the user’s life. Be per
 
 ## Resources
 
-* [Voice & Tone](http://voiceandtone.com/)
-* [The Elements of Style](https://www.amazon.com/Elements-Style-William-Strunk-Jr/dp/1557427283)
-* [The Copywriter’s Handbook](https://www.amazon.com/Copywriters-Handbook-Step-Step-Writing/dp/0396085466)
-* [The Elements of Content Strategy](https://abookapart.com/products/the-elements-of-content-strategy)
-* [Content Strategy for Mobile](https://abookapart.com/products/content-strategy-for-mobile)
-
-* [Slack: Finding our Twitter voice](https://slackhq.com/finding-our-twitter-voice-2684669345ab#.hxcuh3jzi)
-* [Copywriting 101](http://www.copyblogger.com/copywriting-101/)
-* [Quick Course on Effective Website Copywriting](https://www.smashingmagazine.com/2012/05/quick-course-on-effective-website-copywriting/)
-* [20 Killer Copywriting Tips](http://writtent.com/blog/20-killer-web-copywriting-tips/)
-
+<ul class="list">
+	<li>[Voice & Tone](http://voiceandtone.com/)</li>
+	<li>[The Elements of Style](https://www.amazon.com/Elements-Style-William-Strunk-Jr/dp/1557427283)</li>
+	<li>[The Copywriter’s Handbook](https://www.amazon.com/Copywriters-Handbook-Step-Step-Writing/dp/0396085466)</li>
+	<li>[The Elements of Content Strategy](https://abookapart.com/products/the-elements-of-content-strategy)</li>
+	<li>[Content Strategy for Mobile](https://abookapart.com/products/content-strategy-for-mobile)</li>
+	<li>[Slack: Finding our Twitter voice](https://slackhq.com/finding-our-twitter-voice-2684669345ab#.hxcuh3jzi)</li>
+	<li>[Copywriting 101](http://www.copyblogger.com/copywriting-101/)</li>
+	<li>[Quick Course on Effective Website Copywriting](https://www.smashingmagazine.com/2012/05/quick-course-on-effective-website-copywriting/)</li>
+	<li>[20 Killer Copywriting Tips](http://writtent.com/blog/20-killer-web-copywriting-tips/)</li>
+</ul>
 
