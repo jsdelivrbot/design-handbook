@@ -14,19 +14,21 @@ What's a good headline? Headline writing is probably the hardest and most import
 
 A good headline:
 
-* Is focused on Unique Value Propositions
-* Is persuasive
-* Relays urgency
-* Sticks to the marketing strategy (who, what, where, when, why)
-* Works with the visual, but doesn’t state the same thing
-* Refers to the product, but not always by name.
-* Catches people's attention (humor, controversy, boldness, etc)
-* Tends to be physically larger than the body copy on the page
-* Is accurate, factual, and not overstating
-* Uses simple language (shoot for Flesch-Kincaid score of 50 or higher)
-* Does not blatantly bash the competition (this can be perceived as desperate)
-* Is written in the target user’s voice
-* Is not self-deprecating
+<ul class="list">
+	<li>Is focused on Unique Value Propositions</li>
+	<li>Is persuasive</li>
+	<li>Relays urgency</li>
+	<li>Sticks to the marketing strategy (who, what, where, when, why)</li>
+	<li>Works with the visual, but doesn’t state the same thing</li>
+	<li>Refers to the product, but not always by name.</li>
+	<li>Catches people's attention (humor, controversy, boldness, etc)</li>
+	<li>Tends to be physically larger than the body copy on the page</li>
+	<li>Is accurate, factual, and not overstating</li>
+	<li>Uses simple language (shoot for Flesch-Kincaid score of 50 or higher)</li>
+	<li>Does not blatantly bash the competition (this can be perceived as desperate)</li>
+	<li>Is written in the target user’s voice</li>
+	<li>Is not self-deprecating</li>
+</ul>
 
 ## Email Copy
 The users inbox is sacred. We are sending important information directly to them and hope that they are reading it. The shorter the email, the more likely it will be read. If there’s a lot of information, put that information somewhere else (Wiki/Knowledge Base) and link to it. Emails are notifications, not letters home from your husband Jeremiah who’s been gone for 4 months fighting the British for independence.
